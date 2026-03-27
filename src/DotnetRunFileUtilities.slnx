@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="DotnetRunFileUtilities/DotnetRunFileUtilities.csproj" />
+  <Project Path="Test/Test.csproj" Id="b7b5b158-2c4f-48a8-8aa4-e4da829086a4" />
 </Solution>
