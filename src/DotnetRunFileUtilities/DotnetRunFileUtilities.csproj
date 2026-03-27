@@ -8,7 +8,7 @@
         <RootNamespace>$(AssemblyName)</RootNamespace>
         <GenerateDocumentationFile>True</GenerateDocumentationFile>
         
-        <Version>0.0.1</Version>
+        <Version>0.0.2</Version>
         <PackageId>$(AssemblyName)</PackageId>
         <RepositoryUrl>https://github.com/yueyinqiu/Yueyinqiu.Su.DotnetRunFileUtilities.git</RepositoryUrl>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
@@ -22,6 +22,6 @@
 
     <ItemGroup>
         <PackageReference Include="Chell" Version="1.0.0" />
-        <PackageReference Include="Sharprompt" Version="3.1.0-preview1" />
+        <PackageReference Include="Sharprompt" Version="3.0.1" />
     </ItemGroup>
 </Project>
